@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+transformers
+torch
+sentencepiece
+sacremoses
+deep-translator
